@@ -121,7 +121,7 @@ return [
     */
 
     'ui'                 => [
-        'code_theme'     => 'dark', // or: light
+        'code_theme'     => 'light', // or: light
         'fav'            => '',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'show_side_bar'  => true,
@@ -130,7 +130,8 @@ return [
             'secondary'  => '#2b9cf2'
         ],
 
-        'theme_order'    => null // ['LaRecipeDarkTheme', 'customTheme']
+        'theme_order'    => null, // ['LaRecipeDarkTheme', 'customTheme']
+        'custom_style' => public_path('vendor/binarytorch/larecipe/asset/css/custom-style.css')
     ],
 
     /*
@@ -146,7 +147,7 @@ return [
     */
 
     'seo'                 => [
-        'author'          => '',
+        'author'          => 'Hansal Scripts',
         'description'     => '',
         'keywords'        => '',
         'og'              => [

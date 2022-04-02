@@ -1,3 +1,12 @@
 - ## Get Started
     - [Overview](/{{route}}/{{version}}/overview)
-    - [Requirements](/{{route}}/{{version}}/requirements)
+- ## First Steps
+    - [Domains](/{{route}}/{{version}}/first-steps/domain)
+    - [Shared Hosting](/{{route}}/{{version}}/first-steps/shared-hosting)
+    - [VPS Server](/{{route}}/{{version}}/first-steps/vps-server)
+    - [Related FAQ](/{{route}}/{{version}}/first-steps/related-faq)
+- ## Installation
+    - [Requirements](/{{route}}/{{version}}/installation/requirements)
+    - [Shared Hosting](/{{route}}/{{version}}/installation/shared-hosting)
+    - [VPS Hosting](/{{route}}/{{version}}/installation/vps-hosting)
+    - [Wizard](/{{route}}/{{version}}/installation/wizard)
